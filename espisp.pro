@@ -1,4 +1,4 @@
-update=Wed 20 Apr 2016 09:48:57 AM PDT
+update=Wed 22 Feb 2017 12:06:17 PM PST
 version=1
 last_client=kicad
 [cvpcb]
@@ -44,3 +44,4 @@ LibName2=device
 LibName3=power
 LibName4=conn
 LibName5=diode
+LibName6=switches
